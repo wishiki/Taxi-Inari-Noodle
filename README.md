@@ -16,5 +16,5 @@ This indicates a kind of a "taximeter" is naturally embedded in most people's de
 
 The font used on the taximeter is "Taxi Meter by David J Patterson". https://www.dafont.com/taxi-meter.font
 
-
+![Flowchart](TaxiNoodleMeterDiagram.svg)
 
