@@ -14,7 +14,7 @@ a customer spends, the better.
 Although there was no instruction given on how fast they should eat noodles, most customers ended up trying to finish the noodles as quick as possible.
 This indicates a kind of a "taximeter" is naturally embedded in most people's default mindsets.
 
-
+The font used on the taximeter is "Taxi Meter by David J Patterson". https://www.dafont.com/taxi-meter.font
 
 
 
